@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: nubank/state-flow:5.20.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/nubank/state-flow/5.20.1/state-flow-5.20.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
